@@ -1,0 +1,3 @@
+Column 1 is distance in microns
+Final row is total distance rim to rim of crystal
+Column 2 is H2O concentration in ppm
